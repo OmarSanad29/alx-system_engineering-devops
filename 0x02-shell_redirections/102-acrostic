@@ -1,0 +1,2 @@
+#!/bin/bash
+$ echo "Quietly moving down the street" | ./decode-acrostic.sh
