@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'A-Za-z' 'N-ZA-Mn-Za-n'
+echo "Invalid action. Please enter 'e' or 'd'."
